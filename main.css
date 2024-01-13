@@ -1,38 +1,58 @@
 
+--pallet
 body {
-    background-color: black;
+    background-color: var(--palette_standard_bg);
     margin: 0;
 }
-
+:root {
+  --palette_standard_bg: #272727;
+  --palette_select: #1d1c1c;
+  --palette_highlight_bg: #F6F6F6;
+  --palette_highlight: #990100;
+  --palette_text: #999999;
+  --palette_logo: #151515;
+}
 .bob {
-    background-color: darkslategrey;
+    background-color: var(--palette_standard_bg);
     padding: 15px;
     text-align: center;
     height: 90px;
     max-height: 90px;
+    
 }
 
+
+h3{
+  text-align: center;
+  padding-top: 2.5%;
+  font-size: 5%;
+}
 .jeff {
     float: left;
     width: 25%;
     margin: auto;
-    background-color: darkslategrey;
-    outline-color: black;
+    background-color: var(--palette_standard_bg);
+    outline-color: var(--palette_logo);
     outline-style: outset;
-    height: 1000px;
+    height: 800px;
     max-height: 1000px;
-
+    text-align: center;
+    color: var(--palette_text);
+    border-radius: 2%;
   }
 
 .george {
     float: left;
     width: 25%;
     margin: auto;
-    background-color: darkslategrey;
-    outline-color: black;
+    background-color: var(--palette_standard_bg);
+    outline-color: var(--palette_logo);
     outline-style: outset;
-    height: 1000px;
+    height: 800px;
     max-height: 1000px;
+    text-align: center;
+    color: var(--palette_text);
+    border-radius: 2%;
 
   }
 
@@ -40,38 +60,47 @@ body {
     float: left;
     width: 25%;
     margin: auto;
-    background-color: darkslategrey;
-    outline-color: black;
+    text-align: center;
+    background-color: var(--palette_standard_bg);
+    outline-color: var(--palette_logo);
     outline-style: outset;
-    height: 1000px;
+    height: 800px;
     max-height: 1000px;
-
+    color: var(--palette_text);
+    border-radius: 2%;
   }
 
 .hayami {
     float: left;
     width: 25%;
     margin: auto;
-    background-color: darkslategrey;
-    outline-color: black;
+    background-color: var(--palette_standard_bg);
+    outline-color:var(--palette_logo);
     outline-style: outset;
-    height: 1000px;
+    height: 800px;
     max-height: 1000px;
+    text-align: center;
+    color: var(--palette_text);
+    border-radius: 2%;
 
   }
 
 .jennifer {
+  border-radius: 12px;
   float: middle;
   width: 90%;
   margin: auto;
-  background-color: black;
-  outline-color: blue;
-  outline-style: outset;
+
+  background-color: var(--palette_logo);
+  outline-style:none
+  
+  
+  
 }
   
 h4 {
   text-align: center;
-  color: brown;
+  color: var(--palette_text);
   font-size: 30px;
   font-weight: bold;
   margin-top: 10px;
@@ -87,12 +116,14 @@ h4 {
 .charles {
   background-color: darkgreen;
   border: none;
-  color: white;
-  padding: 15px 32px;
+  color: var(--palette_highlight_bg);
+  padding: 15px 32px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  border-radius: 12px;
+  width: 75%;
 }
   
 .jasper {
@@ -112,6 +143,9 @@ h4 {
   display: inline-block;
   font-size: 16px;
   border-radius: 12px;
+  width: 75%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .nigel {
@@ -119,6 +153,7 @@ h4 {
   border: 3px solid green;
   background-color: red;
   border: none;
+  width: 75%;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -126,6 +161,7 @@ h4 {
   display: inline-block;
   font-size: 16px;
   border-radius: 12px;
+  margin-bottom: 5%;
 }
 
 .martin {
