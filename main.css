@@ -1,0 +1,137 @@
+
+body {
+    background-color: black;
+    margin: 0;
+}
+
+.bob {
+    background-color: darkslategrey;
+    padding: 15px;
+    text-align: center;
+    height: 90px;
+    max-height: 90px;
+}
+
+.jeff {
+    float: left;
+    width: 25%;
+    margin: auto;
+    background-color: darkslategrey;
+    outline-color: black;
+    outline-style: outset;
+    height: 1000px;
+    max-height: 1000px;
+
+  }
+
+.george {
+    float: left;
+    width: 25%;
+    margin: auto;
+    background-color: darkslategrey;
+    outline-color: black;
+    outline-style: outset;
+    height: 1000px;
+    max-height: 1000px;
+
+  }
+
+.aimi {
+    float: left;
+    width: 25%;
+    margin: auto;
+    background-color: darkslategrey;
+    outline-color: black;
+    outline-style: outset;
+    height: 1000px;
+    max-height: 1000px;
+
+  }
+
+.hayami {
+    float: left;
+    width: 25%;
+    margin: auto;
+    background-color: darkslategrey;
+    outline-color: black;
+    outline-style: outset;
+    height: 1000px;
+    max-height: 1000px;
+
+  }
+
+.jennifer {
+  float: middle;
+  width: 90%;
+  margin: auto;
+  background-color: black;
+  outline-color: blue;
+  outline-style: outset;
+}
+  
+h4 {
+  text-align: center;
+  color: brown;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.charles {
+  background-color: darkgreen;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+  
+.jasper {
+  text-align: center;
+  color: darkslategrey
+}
+
+.thomas {
+  display: block;
+  border: 3px solid green;
+  background-color: darkgreen;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+.nigel {
+  display: block;
+  border: 3px solid green;
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+.martin {
+  display: block;
+  margin: 0;
+  left: 57%;
+  -ms-transform: translate(-57%, -57%);
+  transform: translate(-57, -57%);
+}
