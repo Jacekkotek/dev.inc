@@ -1,9 +1,5 @@
 
---pallet
-body {
-    background-color: var(--palette_standard_bg);
-    margin: 0;
-}
+
 :root {
   --palette_standard_bg: #272727;
   --palette_select: #1d1c1c;
@@ -12,6 +8,13 @@ body {
   --palette_text: #999999;
   --palette_logo: #151515;
 }
+
+--pallet
+body {
+    background-color: var(--palette_standard_bg);
+    margin: 0;
+}
+
 .bob {
     background-color: var(--palette_standard_bg);
     padding: 15px;
