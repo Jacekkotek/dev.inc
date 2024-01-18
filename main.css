@@ -3,16 +3,18 @@
 :root {
   --palette_standard_bg: #272727;
   --palette_select: #1d1c1c;
-  --palette_highlight_bg: #F6F6F6;
-  --palette_highlight: #990100;
+  --palette_buttong: #44ff00;
+  --palette_buttonr: #990100;
   --palette_text: #999999;
   --palette_logo: #151515;
+}
+html{
+  background-color: var(--palette_standard_bg);
 }
 
 --pallet
 body {
     background-color: var(--palette_standard_bg);
-    margin: 0;
 }
 
 .bob {
@@ -42,6 +44,7 @@ h3{
     text-align: center;
     color: var(--palette_text);
     border-radius: 2%;
+    height: 100%;
   }
 
 .george {
@@ -117,7 +120,7 @@ h4 {
   }
 
 .charles {
-  background-color: darkgreen;
+  background-color: var(--palette_buttong);
   border: none;
   color: var(--palette_highlight_bg);
   padding: 15px 32px 15px;
@@ -136,8 +139,8 @@ h4 {
 
 .thomas {
   display: block;
-  border: 3px solid green;
-  background-color: darkgreen;
+  border: 0px solid green;
+  background-color: var(--palette_buttong);
   border: none;
   color: white;
   padding: 15px 32px;
@@ -153,8 +156,8 @@ h4 {
 
 .nigel {
   display: block;
-  border: 3px solid green;
-  background-color: red;
+  border: 3px solid --palette_buttong;
+  background-color: var(--palette_buttonr);
   border: none;
   width: 75%;
   color: white;
