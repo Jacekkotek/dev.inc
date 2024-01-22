@@ -1,0 +1,35 @@
+
+
+:root {
+  --palette_standard_bg: #272727;
+  --palette_select: #1d1c1c;
+  --palette_buttong: #44ff00;
+  --palette_buttonr: #990100;
+  --palette_text: #999999;
+  --palette_logo: #151515;
+}
+html{
+  background-color: var(--palette_standard_bg);
+}
+
+--pallet
+body {
+    background-color: var(--palette_standard_bg);
+}
+h2{
+  color: #990100;
+}
+
+.jeff {
+    float: unset;
+    width: 100%;
+    margin: auto;
+    background-color: var(--palette_standard_bg);
+    outline-color: var(--palette_logo);
+    outline-style: outset;
+    height: 100vw;
+    font-size: 500%;
+    text-align: center;
+    color: var(--palette_text);
+    
+  }
