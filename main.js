@@ -13,11 +13,12 @@ let jack = 0 //6 months ago
 
 
 function edward() {
-var ctx = document.getElementById("michael").getContext('2d');
+var ctx = document.getElementById("michael");
+var context = ctx.getContext("2d");
 
-ctx.clearRect(0, 0, 200, 200)
+context.clearRect(0, 0, ctx.width, ctx.height)
 
-var myChart = new Chart(ctx, {
+var myChart = new Chart(context, {
     // The type of chart we want to create
     type: 'line',
 

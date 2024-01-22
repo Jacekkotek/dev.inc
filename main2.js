@@ -11,6 +11,7 @@ let isaak = 0;
 let bruce = 0;
 
 setInterval(function() {
+  bobby()
   isaak++;
   p1++;
   console.log(p1);
