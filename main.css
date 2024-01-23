@@ -21,8 +21,7 @@ body {
     background-color: var(--palette_standard_bg);
     padding: 15px;
     text-align: center;
-    height: 90px;
-    max-height: 90px;
+    height: 10vh;
     
 }
 
@@ -39,11 +38,11 @@ h3{
     background-color: var(--palette_standard_bg);
     outline-color: var(--palette_logo);
     outline-style: outset;
-    height: 3000px;
-    max-height: 3000px;
+
     text-align: center;
     color: var(--palette_text);
     border-radius: 2%;
+    min-height: 83vh;
   }
 
 .george {
@@ -53,11 +52,10 @@ h3{
     background-color: var(--palette_standard_bg);
     outline-color: var(--palette_logo);
     outline-style: outset;
-    height: 3000px;
-    max-height: 3000px;
     text-align: center;
     color: var(--palette_text);
     border-radius: 2%;
+    min-height: 83vh;
 
   }
 
@@ -69,10 +67,10 @@ h3{
     background-color: var(--palette_standard_bg);
     outline-color: var(--palette_logo);
     outline-style: outset;
-    height: 3000px;
-    max-height: 3000px;
+
     color: var(--palette_text);
     border-radius: 2%;
+    min-height: 83vh;
   }
 
 .hayami {
@@ -82,11 +80,10 @@ h3{
     background-color: var(--palette_standard_bg);
     outline-color:var(--palette_logo);
     outline-style: outset;
-    height: 3000px;
-    max-height: 3000px;
     text-align: center;
     color: var(--palette_text);
     border-radius: 2%;
+    min-height: 83vh;
 
   }
 
