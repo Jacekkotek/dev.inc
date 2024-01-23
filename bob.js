@@ -5,6 +5,7 @@ function bobby() {
     if (donald < 0) {
         let moby = prompt("Guess the number: ")
         if (moby == Math.floor(Math.random()*10)) {
+            
         }
         else {
             henry = true

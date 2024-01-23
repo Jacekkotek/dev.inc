@@ -18,21 +18,21 @@ function patrick() {
         document.getElementById("peter").innerHTML = jonas;
         peter = true;
         p1 = 0;
-        document.getElementById("josephine").style.visibility = "visible";
+        document.getElementById("josephine").style.display = "block";
     }
 
     else if (paul == false) {
         document.getElementById("paul").innerHTML = jonas;
         paul = true;
         p2 = 0;
-        document.getElementById("eve").style.visibility = "visible";
+        document.getElementById("eve").style.display = "block";
     }
 
     else if (penelope == false) {
         document.getElementById("penelope").innerHTML = jonas;
         penelope = true;
         p3 = 0;
-        document.getElementById("viviana").style.visibility = "visible";
+        document.getElementById("viviana").style.display = "block";
     }
 
     else {
@@ -42,20 +42,20 @@ function patrick() {
 
 function spongebob() {
     peter = false
-    document.getElementById("josephine").style.visibility = "hidden";
+    document.getElementById("josephine").style.display = "none";
     allison = 0
 }
 
 function spongebob_v2() {
     paul = false
-    document.getElementById("eve").style.visibility = "hidden";
+    document.getElementById("eve").style.display = "none";
     sunny = 0
 }
 
 
 function spongebob_v3() {
     penelope = false
-    document.getElementById("viviana").style.visibility = "hidden";
+    document.getElementById("viviana").style.display = "none";
     emery = 0
 }
 
