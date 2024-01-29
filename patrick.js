@@ -1,18 +1,5 @@
 
 
-let peter = false
-let paul = false
-let penelope = false
-
-let allison = 0
-let sunny = 0
-let emery = 0
-
-let p1 = 0
-let p2 = 0
-let p3 = 0
-
-
 function patrick() {
     if (peter == false) {
         document.getElementById("peter").innerHTML = jonas;
@@ -44,12 +31,16 @@ function spongebob() {
     peter = false
     document.getElementById("josephine").style.display = "none";
     allison = 0
+    p1 = 0;
+    pr1 = 0;
 }
 
 function spongebob_v2() {
     paul = false
     document.getElementById("eve").style.display = "none";
     sunny = 0
+    p2 = 0;
+    pr2 = 0
 }
 
 
@@ -57,6 +48,8 @@ function spongebob_v3() {
     penelope = false
     document.getElementById("viviana").style.display = "none";
     emery = 0
+    p3 = 0;
+    pr3 = 0
 }
 
 

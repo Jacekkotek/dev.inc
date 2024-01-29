@@ -1,16 +1,4 @@
 
-// Money counter
-
-let money = 0 
-
-let james = 0 //now
-let john = 0 //1 month ago
-let jane = 0 //2 months ago
-let jill = 0 //3 months ago
-let jen = 0 //4 months ago
-let jon = 0 //5 months ago
-let jack = 0 //6 months ago
-
 
 function edward() {
 var ctx = document.getElementById("michael");
@@ -47,6 +35,7 @@ function obama() {
   jane = john
   john = james
   james = money
+  document.getElementById("clark").innerHTML = "Money: " + money;
   edward()
 }
 

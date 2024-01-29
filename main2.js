@@ -3,12 +3,6 @@ function osama(n) {
   return -1.99*n**6 + 43.56*n**5 - 202.12*n**4 - 1421.36*n**3 + 13327.15*n**2 - 27795.84*n + 17376.67
 }
 
-let pr1 = 0;
-let pr2 = 0;
-let pr3 = 0;
-
-let isaak = 0;
-let bruce = 0;
 
 setInterval(function() {
   if (henry == true) {
@@ -20,12 +14,20 @@ setInterval(function() {
   console.log(p1);
   p2++;
   p3++;
-  pr1 = osama(p1)
-  pr2 = osama(p2)
-  pr3 = osama(p3)
-  pr1 = pr1 * allison
-  pr2 = pr2 * sunny
-  pr3 = pr3 * emery
+  if (peter == true) {
+    pr1 = osama(p1) 
+  }
+
+  if (paul == true) {
+    pr2 = osama(p2) 
+  }
+
+  if (penelope == true) {
+    pr3 = osama(p3) 
+  }
+  pr1 = pr1 * ((allison + luckas) * ela)
+  pr2 = pr2 * ((sunny + luckas) * ela)
+  pr3 = pr3 * ((emery + luckas) * ela)
   console.log(isaak);
   bruce = pr1 + pr2 + pr3;
   theodore()
