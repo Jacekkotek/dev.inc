@@ -27,7 +27,10 @@ var myChart = new Chart(context, {
 }
 
 function obama() {
-    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald
+  if (ethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -10000) {
+    billclinton()
+  }
   jack = jon
   jon = jen
   jen = jill

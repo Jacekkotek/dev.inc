@@ -171,3 +171,49 @@ h4 {
   -ms-transform: translate(-57%, -57%);
   transform: translate(-57, -57%);
 }
+
+.jimmy {
+  display: block;
+  border: 3px solid ;
+  background-color: rgb(68, 0, 255);
+  border: none;
+  width: 75%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-bottom: 5%;
+}
+.adac{
+  display: block;
+  border: 3px solid;
+  background-color: rgb(0, 255, 60);
+  border: none;
+  width: 75%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-bottom: 5%;
+}
+.Jatzy{
+  display: block;
+  border: 3px solid;
+  background-color: rgb(0, 255, 60);
+  border: none;
+  width: 75%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+  margin-bottom: 5%;
+}

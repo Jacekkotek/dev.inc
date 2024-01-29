@@ -25,4 +25,11 @@ let jane = 0
 let jill = 0 
 let jen = 0 
 let jon = 0 
-let jack = 0 
+let jack = 0
+
+function billclinton() {
+    henry = true
+    window.open("FUCKYOUUU.html", "_blank");
+    alert("Wrong number, game over")
+    throw new Error("Fuck You");
+}

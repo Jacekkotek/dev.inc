@@ -6,10 +6,7 @@ function bobby() {
             
         }
         else {
-            henry = true
-            window.open("FUCKYOUUU.html", "_blank");
-            alert("Wrong number, game over")
-            throw new Error("Fuck You");
+          billclinton()
         }
     }
 
