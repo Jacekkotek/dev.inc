@@ -27,15 +27,15 @@ var myChart = new Chart(context, {
 }
 
 function obama() {
-  money = money + bruce - ronald
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald
   jack = jon
   jon = jen
   jen = jill
   jill = jane
   jane = john
   john = james
-  james = money
-  document.getElementById("clark").innerHTML = "Money: " + money;
+  james = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  document.getElementById("clark").innerHTML = "Money: " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
   edward()
 }
 

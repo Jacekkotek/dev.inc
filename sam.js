@@ -8,13 +8,13 @@ function julia() {
 function sammy() {
     setTimeout(julia, 30000);
     luckas = luckas + 10
-    money = money - 50000
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 50000
     console.log(luckas)
 }
 
 function elysia() {
     ela = ela * 1.3
-    money = money - 500000
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 500000
 }
 
 function evelyn() {
@@ -24,5 +24,5 @@ function evelyn() {
 function dexter() {
     setTimeout(evelyn, 60000);
     ela = ela + 3
-    money = money - 1000000
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 1000000
 }
