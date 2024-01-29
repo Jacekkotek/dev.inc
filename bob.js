@@ -1,5 +1,3 @@
-let e = 0
-let henry = false
 
 function bobby() {
     if (donald < 0) {

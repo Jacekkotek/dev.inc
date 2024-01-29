@@ -1,4 +1,3 @@
-let donald = 0
 
 function winston() {
     donald++
