@@ -54,18 +54,24 @@ function spongebob_v3() {
 
 
 function oscar() {
-    allison++
-    document.getElementById("jacek").innerHTML = "Number of developers: " + allison;    
+    if (allison < donald) {
+        allison++
+        document.getElementById("jacek").innerHTML = "Number of developers: " + allison;
+    }    
 }
 
 function oscar_v2() {
-    sunny++
-    document.getElementById("stalin").innerHTML = "Number of developers: " + sunny;  
+    if (sunny < donald) {
+        sunny++
+        document.getElementById("stalin").innerHTML = "Number of developers: " + sunny;  
+    }
 }
 
 function oscar_v3() {
-    emery++
-    document.getElementById("iosif").innerHTML = "Number of developers: " + emery;  
+    if (emery < donald) {
+        emery++
+        document.getElementById("iosif").innerHTML = "Number of developers: " + emery;  
+    }
 }
 
 function hadam() {

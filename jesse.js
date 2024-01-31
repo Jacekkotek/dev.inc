@@ -26,6 +26,7 @@ let jill = 0
 let jen = 0 
 let jon = 0 
 let jack = 0
+let nomnom = 1
 
 function billclinton() {
     henry = true
