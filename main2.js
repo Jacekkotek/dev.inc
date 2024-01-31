@@ -6,32 +6,33 @@ function osama(n) {
 
 setInterval(function() {
   if (henry == true) {
+    
   }
   else {
-  bobby()
-  isaak++;
-  p1++;
-  console.log(p1);
-  p2++;
-  p3++;
-  if (peter == true) {
-    pr1 = osama(p1) 
-  }
+    bobby()
+    isaak++;
+    p1++;
+    console.log(p1);
+    p2++;
+    p3++;
+    if (peter == true) {
+      pr1 = osama(p1) 
+    }
 
-  if (paul == true) {
-    pr2 = osama(p2) 
-  }
+    if (paul == true) {
+      pr2 = osama(p2) 
+    }
 
-  if (penelope == true) {
-    pr3 = osama(p3) 
-  }
-  pr1 = pr1 * ((allison + luckas) * ela)
-  pr2 = pr2 * ((sunny + luckas) * ela)
-  pr3 = pr3 * ((emery + luckas) * ela)
-  console.log(isaak);
-  bruce = pr1 + pr2 + pr3;
-  theodore()
-  obama()
+    if (penelope == true) {
+      pr3 = osama(p3) 
+    }
+    pr1 = pr1 * ((allison + luckas) * ela)
+    pr2 = pr2 * ((sunny + luckas) * ela)
+    pr3 = pr3 * ((emery + luckas) * ela)
+    console.log(isaak);
+    bruce = pr1 + pr2 + pr3;
+    theodore()
+    obama()
   }
 }, 10000);
 
