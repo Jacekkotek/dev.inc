@@ -31,6 +31,7 @@ let sophie = 0
 let frank = 0
 let grzegorz = 0.3
 let andrzej = 0
+let jaroslaw = false
 
 function billclinton() {
     henry = true

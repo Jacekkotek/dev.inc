@@ -34,8 +34,10 @@ setInterval(function() {
     theodore()
     obama()
     sophie = sophie - frank
-    if (sophie == 0) {
+    if (sophie <= 0) {
+      sophie = 0
       frank = 0
+      jaroslaw = false
     }
   }
 }, 10000);
