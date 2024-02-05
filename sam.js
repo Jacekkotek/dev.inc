@@ -31,7 +31,7 @@ function mia() {
     if (jaroslaw == false) {
         jaroslaw = true
         andrzej = parseFloat(prompt("How much do you want to loan?"))
-    
+
         if (isNaN(andrzej) == true) {
         alert("Please enter a number")
         andrzej = 0
