@@ -33,6 +33,10 @@ setInterval(function() {
     bruce = pr1 + pr2 + pr3;
     theodore()
     obama()
+    sophie = sophie - frank
+    if (sophie == 0) {
+      frank = 0
+    }
   }
 }, 10000);
 

@@ -26,3 +26,17 @@ function dexter() {
     ela = ela + 3
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 1000000
 }
+
+function mia() {
+        andrzej = parseFloat(prompt("How much do you want to loan?"))
+    
+    if (isNaN(andrzej) == true) {
+        alert("Please enter a number")
+        andrzej = 0
+    }
+
+    sophie = sophie + andrzej
+    frank = sophie*0.1
+
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + sophie*1.3
+}

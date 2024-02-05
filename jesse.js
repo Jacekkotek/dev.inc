@@ -27,6 +27,10 @@ let jen = 0
 let jon = 0 
 let jack = 0
 let nomnom = 1
+let sophie = 0
+let frank = 0
+let grzegorz = 0.3
+let andrzej = 0
 
 function billclinton() {
     henry = true

@@ -24,7 +24,7 @@ var myChart = new Chart(context, {
 }
 
 function obama() {
-  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = Math.floor(kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald - (sophie*grzegorz))
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -10000) {
     billclinton()
   }
