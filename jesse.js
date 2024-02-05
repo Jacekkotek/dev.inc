@@ -32,6 +32,14 @@ let frank = 0
 let grzegorz = 0.3
 let andrzej = 0
 let jaroslaw = false
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 = 0
+let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 = 0
 
 function billclinton() {
     henry = true

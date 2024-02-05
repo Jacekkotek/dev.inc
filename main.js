@@ -24,7 +24,48 @@ var myChart = new Chart(context, {
 }
 
 function obama() {
-  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = Math.floor(kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald - (sophie*grzegorz))
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald - (sophie*grzegorz)
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -10000) {
     billclinton()
   }
@@ -37,6 +78,38 @@ function obama() {
   james = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
   document.getElementById("clark").innerHTML = "Money: " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
   edward()
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
 }
 
 edward()
