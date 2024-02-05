@@ -9,6 +9,7 @@ setInterval(function() {
     
   }
   else {
+    neiLuckas6()
     bobby()
     isaak++;
     p1++;
@@ -41,5 +42,40 @@ setInterval(function() {
     }
   }
 }, 10000);
+
+
+function neiLuckas() {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+}
 
 //-1.99*x**6 + 43.56*x**5 - 202.12*x**4 - 1421.36*x**3 + 13327.15*x**2 - 27795.84*x + 17376.67

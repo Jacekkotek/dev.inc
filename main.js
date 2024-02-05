@@ -23,6 +23,40 @@ var myChart = new Chart(context, {
 });
 }
 
+function neiLuckas6() {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    billclinton()
+  }
+}
+
 function obama() {
   kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
   kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
@@ -79,6 +113,12 @@ function obama() {
   document.getElementById("clark").innerHTML = "Money: " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
   edward()
 
+
+  neiLuckas()
+  neiLuckas2()
+  neiLuckas3()
+  neiLuckas4()
+  neiLuckas5()
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
