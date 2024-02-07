@@ -1,7 +1,8 @@
 
 
 function theodore() {
-    ronald = donald*1500;
+    ronald = Math.abs(donald*1500);
+    ronald = Math.abs(ronald);
 }
 
 function neiLuckas2() {
