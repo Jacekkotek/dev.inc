@@ -24,35 +24,35 @@ var myChart = new Chart(context, {
 }
 
 function neiLuckas6() {
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 
-  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+  if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
 }
@@ -150,6 +150,7 @@ function obama() {
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
     billclinton()
   }
+  neiLuckas6()
 }
 
 edward()

@@ -43,8 +43,8 @@ let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 = 0
 
 function billclinton() {
     henry = true
-    window.open("FUCKYOUUU.html", "_blank");
     alert("Wrong number, game over")
+    window.open("FUCKYOUUU.html", "_blank");
     throw new Error("Fuck You");
 }
 

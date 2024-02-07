@@ -9,7 +9,6 @@ setInterval(function() {
     
   }
   else {
-    neiLuckas6()
     bobby()
     isaak++;
     p1++;
