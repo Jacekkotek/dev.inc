@@ -75,16 +75,22 @@ function oscar_v3() {
 }
 
 function hadam() {
-    allison--
-    document.getElementById("jacek").innerHTML = "Number of developers: " + allison;  
+    if (allison > 0) {
+        allison--
+        document.getElementById("jacek").innerHTML = "Number of developers: " + allison;  
+    }
 }
 
 function hussein() {
-    sunny--
-    document.getElementById("stalin").innerHTML = "Number of developers: " + sunny;  
+    if (sunny > 0) {
+        sunny--
+        document.getElementById("stalin").innerHTML = "Number of developers: " + sunny;  
+    }
 }
 
 function epstiel() {
-    emery--
-    document.getElementById("iosif").innerHTML = "Number of developers: " + emery; 
+    if (emery > 0) {
+        emery--
+        document.getElementById("iosif").innerHTML = "Number of developers: " + emery;  
+    }
 }
