@@ -6,7 +6,7 @@ function osama(n) {
 
 setInterval(function() {
   if (henry == true) {
-    
+    alert("Error 4666")
   }
   else {
     bobby()
@@ -45,34 +45,42 @@ setInterval(function() {
 
 function neiLuckas() {
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 8650")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 8499")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 7794")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 5404")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 3580")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 4886")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 8586")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 4333")
     billclinton()
   }
 }

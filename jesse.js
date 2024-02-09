@@ -43,41 +43,48 @@ let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 = 0
 
 function billclinton() {
     henry = true
-    alert("Wrong number, game over")
     window.open("FUCKYOUUU.html", "_blank");
     throw new Error("Fuck You");
 }
 
 function neiLuckas4() {
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 4947")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 1328")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 0274")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 0748")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 9550")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 2806")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 1406")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 7205")
       billclinton()
     }
   }

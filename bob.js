@@ -6,6 +6,7 @@ function bobby() {
             
         }
         else {
+          alert("Error 6591")
           billclinton()
         }
     }
@@ -21,6 +22,7 @@ function bobby() {
             
             }
             else {
+                alert("Error 6935")
                 billclinton()
             }
         }
@@ -36,34 +38,42 @@ function norman() {
 
 function neiLuckas3() {
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 4890")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 0410")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 2007")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 7885")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 4097")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 6868")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 3863")
       billclinton()
     }
   
     if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+      alert("Error 7790")
       billclinton()
     }
   }

@@ -25,34 +25,42 @@ var myChart = new Chart(context, {
 
 function neiLuckas6() {
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 0230")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 9917")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 7345")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 9906")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 4388")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 1856")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 8157")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 7849")
     billclinton()
   }
 }
@@ -68,39 +76,48 @@ function obama() {
   kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 8694")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 0698")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 9717")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 0507")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 1944")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 1287")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 5325")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 7512")
     billclinton()
   }
 
   kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + bruce - ronald - (sophie*grzegorz)
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -10000) {
+    alert("Error 8689")
     billclinton()
   }
   jack = jon
@@ -125,34 +142,42 @@ function obama() {
   neiLuckas4()
   neiLuckas5()
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 2053")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 9140")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers4 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 9176")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers5 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 7013")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 1903")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 1537")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 3956")
     billclinton()
   }
 
   if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 + bruce - ronald - (sophie*grzegorz) != kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers) {
+    alert("Error 0145")
     billclinton()
   }
   neiLuckas6()
