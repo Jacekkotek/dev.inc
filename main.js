@@ -130,10 +130,6 @@ function obama() {
   document.getElementById("clark").innerHTML = "Money: " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
   edward()
 
-  if ((james-john) > 1E+9){
-    alert("You earned too much money")
-    billclinton()
-  }
 
 
   neiLuckas()
