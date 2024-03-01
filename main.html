@@ -13,18 +13,31 @@
   <link rel="stylesheet" href="main.css">
   <title> Dev.inc </title>
 </head>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script>
+  $( "#dialog" ).dialog({
+  dialogClass: "no-close",
+  buttons: [
+    {
+      text: "OK",
+      click: function() {
+        $( this ).dialog( "close" );
+      }
+    }
+  ]
+});
+</script>
 <body>
-
-    
-
+  <script src="jesse.js"></script>
   <div class="bob">
     <h1 id="geralt"></h1>
   </div>
 
   <script>
     let dylan = prompt("Company name: ")
-    if (dylan == "Luckas") {
-      kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1000000;
+    if (dylan == "Luckas"){
+      kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + 1000000;
     }
     document.getElementById("geralt").innerHTML = dylan;
   </script>
@@ -136,10 +149,14 @@
   </div>
 </div>
 
-
+<div id="dialog" style="background-color: aqua; display: none;">
+  <h1> Achievement Unlocked! </h1>
+  <img src="howdidwegethere.jpg"> </img>
+</div>   
+  
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
-  <script src="jesse.js"></script>
+  <script src="jasper.js"></script>
   <script>
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers2 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers3 = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers
@@ -194,7 +211,6 @@
   </script>
   <script src="sam.js"></script>
   <script src="patrick.js"></script>
-  <script src="jasper.js"></script>
   <script src="bob.js"></script>
   <script src="ronald.js"></script>
   <script src="main.js"></script>

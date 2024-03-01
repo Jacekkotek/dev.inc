@@ -46,3 +46,15 @@ function mia() {
         alert("You already have a loan")
     }
 }
+
+
+
+
+
+setInterval(function() {
+    document.getElementById("clark").innerHTML = "Money : " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
+    if ( kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -1E8){
+        kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1E8;
+        document.getElementById("dialog").style.display = "block";
+    }
+}, 10);
