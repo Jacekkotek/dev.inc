@@ -12,6 +12,10 @@ html{
   background-color: var(--palette_standard_bg);
 }
 
+.no-close .ui-dialog-titlebar-close {
+  display: none;
+}
+
 --pallet
 body {
     background-color: var(--palette_standard_bg);
