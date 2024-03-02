@@ -27,18 +27,32 @@ function dexter() {
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 1000000
 }
 
+function miam(n){
+    let ai = prompt("How much do you want to loan?")
+
+    if (ai == "gimmemoney") {
+        kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers + 10000;
+    }
+
+    else {
+        return ai
+    }
+
+}
+
+
 function mia() {
     if (jaroslaw == false) {
         jaroslaw = true
-        andrzej = parseFloat(prompt("How much do you want to loan?"))
+        andrzej = parseFloat(miam(1))
 
         if (andrzej == 69) {
             window.open("https://en.wikipedia.org/wiki/Suicides_at_the_Golden_Gate_Bridge")
         }
 
         if (isNaN(andrzej) == true) {
-        alert("Please enter a number")
-        andrzej = 0
+            alert("Please enter a number")
+            andrzej = 0
         }
 
         sophie = sophie + andrzej
