@@ -32,6 +32,10 @@ function mia() {
         jaroslaw = true
         andrzej = parseFloat(prompt("How much do you want to loan?"))
 
+        if (andrzej == 69) {
+            window.open("https://en.wikipedia.org/wiki/Suicides_at_the_Golden_Gate_Bridge")
+        }
+
         if (isNaN(andrzej) == true) {
         alert("Please enter a number")
         andrzej = 0
@@ -52,6 +56,7 @@ function mia() {
 
 
 setInterval(function() {
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = Math.round(kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers * 100)/100
     document.getElementById("clark").innerHTML = "Money : " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
     if ( kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -1E8){
         kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1E8;

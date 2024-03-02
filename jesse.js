@@ -40,6 +40,7 @@ let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers6 = 0
 let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers7 = 0
 let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers8 = 0
 let kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers9 = 0
+let dorothy = 50000
 
 function billclinton() {
     henry = true

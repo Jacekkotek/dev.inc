@@ -33,7 +33,14 @@ function bobby() {
 function norman() {
     nomnom++;
     document.getElementById("gary").innerHTML = "Office Upgrade Level: " + nomnom;
-    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 50000;
+    david()
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - dorothy;
+}
+
+function david() {
+  dorothy = dorothy * 1.10
+  dorothy = Math.round(dorothy);
+  document.getElementById("mary").innerHTML =  "Upgrade office (cost: " + dorothy + ",-)"; 
 }
 
 function neiLuckas3() {
@@ -77,3 +84,5 @@ function neiLuckas3() {
       billclinton()
     }
   }
+
+  document.getElementById("mary").innerHTML =  "Upgrade office (cost: " + dorothy + ",-)"; 
