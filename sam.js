@@ -13,18 +13,90 @@ function sammy() {
 }
 
 function elysia() {
+document.getElementById("jimmy").style.display = 'none';
     ela = ela * 1.3
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 500000
 }
+
+function priscilla() {
+document.getElementById("Peterparkeregay").style.display = 'none';
+    ela = ela * 1.4
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 750000
+}
+
+function violette() {
+document.getElementById("Jatzyboy").style.display = 'none';
+    ela = ela * 1.5
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 2500000
+}
+
+function katrine() {
+document.getElementById("Petergriffindia").style.display = 'none';
+    ela = ela * 3
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 5000000
+}
+
+function gregorius() {
+document.getElementById("AltformasselolL").style.display = 'none';
+    ela = ela * 2
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 15000000
+}
+
+function siegbert() {
+document.getElementById("Altformasselol").style.display = 'none';
+    ela = ela * 4
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 20000000
+}
+
+function milly() {
+document.getElementById("Jatcekslårmeg").style.display = 'none';
+    ela = ela * 4
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 30000000
+}
+
+
+function gunni() {
+document.getElementById("Jatcekslårmegtihi").style.display = 'none';
+    ela = ela * 10
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 50000000
+}
+
+
+
+function agnes() {
+document.getElementById("Jatcekslårmegtihi2").style.display = 'none';
+    ela = ela * 20
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 100000000
+}
+
+
+function mathilde() {
+document.getElementById("Jatcekslårmegtihi3").style.display = 'none';
+    ela = ela * 100
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 100000000000
+}
+
+function mathilda() {
+document.getElementById("PeterParker").style.display = 'none';
+    ela = ela * 2
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 20000
+}
+
 
 function evelyn() {
     ela = ela - 3
 }
 
-function dexter() {
+function dexter(dalai) {
     setTimeout(evelyn, 60000);
     ela = ela + 3
-    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 1000000
+    kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - parseInt(dalai)
+}
+
+
+
+function daaaaaaaaaaaaa() {
+    window.open("https://github.com/Jacekkotek/dev.inc")
 }
 
 function miam(n){
@@ -72,8 +144,23 @@ function mia() {
 setInterval(function() {
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = Math.round(kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers * 100)/100
     document.getElementById("clark").innerHTML = "Money : " + kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers;
-    if ( kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -1E8){
-        kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1E8;
-        document.getElementById("dialog").style.display = "block";
-    }
+    if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers > 1E8) {
+            document.getElementById("Julian").style.display = "none";
+            document.getElementById("Iban").style.display = "none";
+            document.getElementById("kelvin").style.display = "none";
+            document.getElementById("kay").style.display = "block";
+        }
+    else if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers > 2E7) {
+            document.getElementById("Iban").style.display = "none";
+            document.getElementById("kelvin").style.display = "none";
+            document.getElementById("Julian").style.display = "block";
+            }
+     else if (kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers > 2E6) {
+        document.getElementById("kelvin").style.display = "none";
+        document.getElementById("Iban").style.display = "block";
+        }
+     else if ( kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -1E8){
+                  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1E8;
+                  document.getElementById("dialog").style.display = "block";
+              }
 }, 10);
