@@ -19,7 +19,7 @@ document.getElementById("jimmy").style.display = 'none';
 }
 
 function priscilla() {
-document.getElementById("Peterparkeregay").style.display = 'none';
+document.getElementById("PeterParkeregay").style.display = 'none';
     ela = ela * 1.4
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 750000
 }
