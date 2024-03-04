@@ -28,7 +28,10 @@ body {
     height: 10vh;
     
 }
-
+h1{
+  font-size: 2.5vw;
+  color: var(--palette_text);
+}
 
 h3{
   text-align: center;
@@ -111,6 +114,9 @@ h4 {
   margin-bottom: 10px;
 }
 
+h2 {
+  margin-top: 5%;
+}
 .row:after {
     content: "";
     display: table;
@@ -118,10 +124,12 @@ h4 {
   }
 
 .charles {
-  background-color: var(--palette_buttong);
+  background-color: var(--palette_standard_bg);
   border: none;
   color: var(--palette_highlight_bg);
   padding: 15px 32px 15px;
+  margin: auto;
+  margin-bottom: 5%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -138,7 +146,7 @@ h4 {
 .thomas {
   display: block;
   border: 0px solid;
-  background-color: var(--palette_select);
+  background-color: var(--palette_standard_bg);
   border: none;
   color: white;
   padding: 15px 32px;
@@ -155,7 +163,7 @@ h4 {
 .nigel {
   display: block;
   border: 3px solid --palette_buttong;
-  background-color: var(--palette_buttonr);
+  background-color: var(--palette_standard_bg);
   border: none;
   width: 75%;
   color: white;
@@ -207,3 +215,4 @@ h4 {
   border-radius: 12px;
   margin-bottom: 5%;
 }
+
