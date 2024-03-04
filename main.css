@@ -50,6 +50,7 @@ h3{
     color: var(--palette_text);
     border-radius: 2%;
     min-height: 83vh;
+    height: 800px;
   }
 
 .george {
@@ -63,6 +64,7 @@ h3{
     color: var(--palette_text);
     border-radius: 2%;
     min-height: 83vh;
+    height: 800px;
 
   }
 
@@ -78,6 +80,7 @@ h3{
     color: var(--palette_text);
     border-radius: 2%;
     min-height: 83vh;
+    height: 800px;
   }
 
 .hayami {
@@ -91,6 +94,7 @@ h3{
     color: var(--palette_text);
     border-radius: 2%;
     min-height: 83vh;
+    height: 800px;
   }
 
 .jennifer {
@@ -220,7 +224,8 @@ h2 {
   border: 3px solid;
   background-color: var(--palette_select);
   border: none;
-  width: 10%;
+  width: 10vw;
+  height: 5vh;
   color: white;
   text-align: center;
   text-decoration: none;

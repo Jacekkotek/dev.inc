@@ -12,8 +12,8 @@ var myChart = new Chart(context, {
         labels: ["½ a Year ago","5 months ago","4 months ago","3 months ago","2 months ago","1 month ago","now"],
         datasets: [{
             label: "",
-            backgroundColor: 'hex(#a1ffa1)',
-            borderColor: 'rgb(255, 99, 132)',
+            backgroundColor: 'rgb(0, 100, 0)',
+            borderColor: 'rgb(0, 150, 0)',
             data: [jack, jon, jen, jill, jane, john, james]
         }]
     },
