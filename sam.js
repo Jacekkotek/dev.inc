@@ -31,7 +31,7 @@ document.getElementById("Jatzyboy").style.display = 'none';
 }
 
 function katrine() {
-document.getElementById("Petergriffindia").style.display = 'none';
+document.getElementById("PeterGriffindia").style.display = 'none';
     ela = ela * 3
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 5000000
 }
