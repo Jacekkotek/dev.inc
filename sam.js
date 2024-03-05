@@ -163,4 +163,7 @@ setInterval(function() {
                   kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1E8;
                   document.getElementById("dialog").style.display = "block";
               }
+     document.getElementById("jacek").innerHTML = "Number of developers: " + allison;
+     document.getElementById("stalin").innerHTML = "Number of developers: " + sunny;
+     document.getElementById("iosif").innerHTML = "Number of developers: " + emery;
 }, 10);
