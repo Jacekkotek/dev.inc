@@ -1,13 +1,13 @@
 
 
 function julia() {
-    luckas = luckas - 10
+    luckas = luckas - 5
     console.log(luckas)
 }
 
 function sammy() {
-    setTimeout(julia, 30000);
-    luckas = luckas + 10
+    setTimeout(julia, 10000);
+    luckas = luckas + 5
     kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers - 50000
     console.log(luckas)
 }

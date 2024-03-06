@@ -28,6 +28,15 @@ body {
     height: 7.5vh;
     
 }
+
+.Jatzy:hover {background-color: #3e8e41}
+.Jatzykoffor:hover {background-color: #FFA500}
+.thomas:hover {background-color: #3e8e41}
+.nigel:hover {background-color: #FF2400}
+.jimmy:hover {background-color: #3e8e41}
+.charles:hover {background-color: #3e8e41}
+
+
 h1{
   font-size: 4vh;
   padding: 0%;
@@ -163,7 +172,6 @@ h2 {
   font-size: 16px;
   border-radius: 12px;
   width: 75%;
-  margin-top: 5%;
   margin-bottom: 5%;
 }
 
