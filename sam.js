@@ -160,7 +160,7 @@ setInterval(function() {
         document.getElementById("Iban").style.display = "block";
         }
      else if ( kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers < -1E8){
-                  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1E8;
+                  kennethblevinsjohnsimpsonaberothdonbirdrudolphrogers = 1;
                   document.getElementById("dialog").style.display = "block";
               }
      document.getElementById("jacek").innerHTML = "Number of developers: " + allison;
