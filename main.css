@@ -29,7 +29,7 @@ body {
     
 }
 
-.Jatzy:hover {background-color: #3e8e41}
+.Jatzy:hover {background-color: blue}
 .Jatzykoffor:hover {background-color: #FFA500}
 .thomas:hover {background-color: #3e8e41}
 .nigel:hover {background-color: #FF2400}
@@ -49,6 +49,10 @@ h3{
   text-align: center;
   padding-top: 2.5%;
   font-size: 4%;
+}
+
+h5{
+  padding-bottom: 10%;
 }
 .jeff {
     float: left;
@@ -162,33 +166,35 @@ h2 {
 .thomas {
   display: block;
   border: 0px solid;
-  background-color: var(--palette_standard_bg);
+  background-color: var(--palette_logo);
   border: none;
   color: white;
-  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: auto;
   border-radius: 12px;
-  width: 75%;
-  margin-bottom: 5%;
+  width: 25%;
+  height: 15%;
+  float: left;
+  padding: 2.5%;
 }
 
 .nigel {
   display: block;
-  border: 3px solid --palette_buttong;
-  background-color: var(--palette_standard_bg);
+  border: 0px solid;
+  background-color: var(--palette_logo);
   border: none;
-  width: 75%;
   color: white;
-  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: auto;
   border-radius: 12px;
-  margin-bottom: 5%;
+  width: 25%;
+  height: 15%;
+  float: right;
+  padding: 2.5%;
 }
 
 .martin {
@@ -197,6 +203,7 @@ h2 {
   left: 57%;
   -ms-transform: translate(-57%, -57%);
   transform: translate(-57, -57%);
+  background-color: var(--palette_logo);
 }
 
 .jimmy {
